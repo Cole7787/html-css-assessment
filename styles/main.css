@@ -91,7 +91,7 @@ button{
   flex-direction: row;
   align-items: flex-end;
   justify-content: center;
-  margin-top: 140px;
+  margin-top: 20vh;
 }
 .down-arrow-button img{
   width: 65px;
